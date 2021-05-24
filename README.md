@@ -1,6 +1,6 @@
 # React simple multilenguage
 
-This project is a simple implementation of dictionaries for multilanguage applications using context
+This project is a simple implementation of dictionaries for multilanguage applications using React Context
 
 # Getting Started with Create React App
 
